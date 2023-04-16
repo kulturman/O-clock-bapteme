@@ -7,6 +7,8 @@ requête vers le serveur, et ce dernier renvoie une page HTML. Alors supposons q
 , c'est à dire qu'au lieu de charger une autre page pour afficher les détails de la carte nous affichons les données sur la même page. Comment t'y prendrais tu? C'est là que fetch vient à la rescousse
 la fonction te permet de faire une requête vers le serveur, de récupérer les données et des afficher sur la page (ou quoi que tu souhaites) sans recharger la page, magique non?
 
+Si tu as déjà entendu parle d'**AJAX** c'est exactement ce que fait la fonction fetch: des **requêtes AJAX**
+
 ## Implémentons cette fonctionnalité
 Pour cela tu peux juste rajouter ce script dans la vue (.ejs) qui liste les cartes et essayer de cliquer sur une carte
 
